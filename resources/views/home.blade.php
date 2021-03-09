@@ -1,4 +1,4 @@
-@include('header');
+@include('header')
 
     <div id="area-principal">
     <img src="https://www.freelogoservices.com/api/main/images/1j+ojFVDOMkX9Wytexe43D6khvaCqh9GmR3IwXs1M3EMoAJtliEpgfpq9Pw9 ">

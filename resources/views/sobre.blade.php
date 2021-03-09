@@ -1,4 +1,4 @@
-@include('header');
+@include('header')
         <br><br><br><br>
         <div class="card" style="margin-right: 113px;">
         <h5 class="card-header">Quem Somos?</h5>
